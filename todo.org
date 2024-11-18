@@ -1,4 +1,4 @@
-#+title:  Graduate Applications
+#+Title:  Graduate Applications
 #+author: Jonah Weinbaum 
 
 * School Research
@@ -6,8 +6,8 @@
 ** Todo List
 
 *** DONE Create Calendly w/ Souroush
-- Scheduled for Tuesday, November 19 @ 5:45-6:15
-*** TODO Email Avinash
+- [X] Scheduled for Tuesday, November 19 @ 5:45-6:15
+- [X] Email Souroush regarding meeting
 
 * References
 
