@@ -3,26 +3,32 @@
 
 * School Research
 
-** Todo List
-
-*** DONE Create Calendly w/ Souroush
-- [X] Scheduled for Tuesday, November 19 @ 5:45-6:15
-- [X] Email Souroush regarding meeting
+** Todo
+- [X] Create Calendly w/ Souroush
+  - [X] Scheduled for Tuesday, November 19 @ 5:45-6:15
+  - [X] Email Souroush regarding meeting
 
 * References
 
-** Todo List
-
-*** TODO Write Reference Email
-
-*** TODO Email Cristophe
-
-*** TODO Email Sergey
-
-*** TODO Email Asher
-
-*** TODO Email Avinash
+** Todo
+- [ ] Write Generic Reference Email
+- [ ] Email
+- [ ] Email Sergey
+- [ ] Email Asher
+- [ ] Email Avinash
 
 * Applications
 
-** Todo List
+** Generic Todo
+- [ ] Acquire Copy of Transcript
+
+**  University of Michigan (Ann Arbor, MI) [Application Deadline of December 15th]
+*** Requirements
+- [ ] [[https://rackham.umich.edu/admissions/applying/transcripts/][Copy of Transcript]]
+- [ ] [[https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/][Application Fee of $75]]
+- [ ] [[https://rackham.umich.edu/admissions/applying/letters-of-recommendation/][Letters of Recommendation]]
+- [ ] [[https://rackham.umich.edu/admissions/applying/statements-curriculum-vitae-resume/][Academic Statement of Purpose]]
+- [ ] [[https://rackham.umich.edu/admissions/applying/statements-curriculum-vitae-resume/][Personal Statement]]
+- [ ] [[https://rackham.umich.edu/admissions/applying/statements-curriculum-vitae-resume/][Curriculum Vitae]] 
+*** Todo
+- [ ] Create ApplyWeb Account
