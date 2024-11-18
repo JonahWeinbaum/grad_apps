@@ -1,34 +1,62 @@
 #+Title:  Graduate Applications
 #+author: Jonah Weinbaum 
 
-* School Research
+* School Research 
 
-** Todo
+** Agenda
+Calendly Meeting w/ Souroush (SCHEDULED: <2024-11-19 Tue 05:45>)
+
 - [X] Create Calendly w/ Souroush
-  - [X] Scheduled for Tuesday, November 19 @ 5:45-6:15
+  - [X] Schedule Calendly
   - [X] Email Souroush regarding meeting
+- [ ] Research Security Conferences
+  - [ ] [[https://www.ndss-symposium.org/][NDSS]]
+  - [ ] [[https://www.usenix.org/conference/usenixsecurity25][USENIX]]
+  - [ ] [[https://www.sigsac.org/ccs/CCS2024/][CCS]]
+  - [ ] [[https://sp2025.ieee-security.org/][IEEE S&P]]
+- [ ] Research Papers from Security Conferferences
+- [ ] Research Authors of Papers
+- [ ] Research Schools of Authors
+- [ ] Research Students of Programs
 
-* References
+* Curricilum Vitae
 
-** Todo
-- [ ] Write Generic Reference Email
-- [ ] Email
-- [ ] Email Sergey
-- [ ] Email Asher
-- [ ] Email Avinash
+
+
+13* References
+
+** Generic Message
+#+BEGIN_SRC
+Hello [NAME],
+
+The time has come. I am applying for PhD programs. For this reason I am writing to you with two purposes in mind.
+First, I was wondering if we could meet to discuss options for graduate programs that fit my skills and interests.
+Second, I would greatly appreciate it if you would consider being one of the references in my application.
+If you would be willing I will touch base with more information as to how each school is requesting its references and what would be ideal to highlight.
+
+Best,
+Jonah Weinbaum
+#+END_SRC
+
+- [X] Write Generic Reference Email
+- [X] Email Christophe
+- [X] Email Sergey
+- [X] Email Asher
+- [X] Email Avinash
 
 * Applications
 
-** Generic Todo
 - [ ] Acquire Copy of Transcript
 
-**  University of Michigan (Ann Arbor, MI) [Application Deadline of December 15th]
-*** Requirements
-- [ ] [[https://rackham.umich.edu/admissions/applying/transcripts/][Copy of Transcript]]
-- [ ] [[https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/][Application Fee of $75]]
+**  University of Michigan (Ann Arbor, MI)
+DEADLINE: <2024-12-15>
+
+- [ ] Create [[https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=umgrad][ApplyWeb]] Account
+
+*** Requirements [0/6]
 - [ ] [[https://rackham.umich.edu/admissions/applying/letters-of-recommendation/][Letters of Recommendation]]
+- [ ] [[https://rackham.umich.edu/admissions/applying/statements-curriculum-vitae-resume/][Curriculum Vitae]] 
 - [ ] [[https://rackham.umich.edu/admissions/applying/statements-curriculum-vitae-resume/][Academic Statement of Purpose]]
 - [ ] [[https://rackham.umich.edu/admissions/applying/statements-curriculum-vitae-resume/][Personal Statement]]
-- [ ] [[https://rackham.umich.edu/admissions/applying/statements-curriculum-vitae-resume/][Curriculum Vitae]] 
-*** Todo
-- [ ] Create ApplyWeb Account
+- [ ] [[https://rackham.umich.edu/admissions/applying/transcripts/][Copy of Transcript]]
+- [ ] [[https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/][Application Fee of $75]]
