@@ -1,11 +1,10 @@
 #+Title:  Graduate Applications
 #+author: Jonah Weinbaum 
+#+OPTIONS: toc:nil  
 
 * School Research 
 
-** Agenda
-Calendly Meeting w/ Souroush (SCHEDULED: <2024-11-19 Tue 05:45>)
-
+[1/6]
 - [X] Create Calendly w/ Souroush
   - [X] Schedule Calendly
   - [X] Email Souroush regarding meeting
@@ -19,25 +18,33 @@ Calendly Meeting w/ Souroush (SCHEDULED: <2024-11-19 Tue 05:45>)
 - [ ] Research Schools of Authors
 - [ ] Research Students of Programs
 
+** Agenda
+  
+Calendly Meeting w/ Souroush [SCHEDULED: <2024-11-19 Tue 05:45]>
+
 * Curricilum Vitae
 
 
 
-13* References
+* References
 
 ** Generic Message
 #+BEGIN_SRC
-Hello [NAME],
+    Hello [NAME],
 
-The time has come. I am applying for PhD programs. For this reason I am writing to you with two purposes in mind.
-First, I was wondering if we could meet to discuss options for graduate programs that fit my skills and interests.
-Second, I would greatly appreciate it if you would consider being one of the references in my application.
-If you would be willing I will touch base with more information as to how each school is requesting its references and what would be ideal to highlight.
+    The time has come. I am applying for PhD programs.
+    For this reason I am writing to you with two purposes in mind.
+    First, I was wondering if we could meet to discuss options for graduate programs that fit my
+    skills and interests.
+    Second, I would greatly appreciate it if you would consider being one of the references in my application.
+    If you would be willing I will touch base with more information as to how each school is
+    requesting its references and what would be ideal to highlight.
 
-Best,
-Jonah Weinbaum
+    Best,
+    Jonah Weinbaum
 #+END_SRC
 
+[5/5]
 - [X] Write Generic Reference Email
 - [X] Email Christophe
 - [X] Email Sergey
@@ -46,12 +53,14 @@ Jonah Weinbaum
 
 * Applications
 
+[0/1]
 - [ ] Acquire Copy of Transcript
 
-**  University of Michigan (Ann Arbor, MI)
-DEADLINE: <2024-12-15>
+**  University of Michigan (Ann Arbor, MI) [DEADLINE: <2024-12-15>]
 
-- [ ] Create [[https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=umgrad][ApplyWeb]] Account
+[1/2]
+- [X] Create [[https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=umgrad][ApplyWeb]] Account
+- [ ] Filled out [[https://applyweb.collegenet.com/account/new/create?origin=https://www.applyweb.com/cgi-bin/applymenu?instcode=umgrad][ApplyWeb]] requisite info
 
 *** Requirements [0/6]
 - [ ] [[https://rackham.umich.edu/admissions/applying/letters-of-recommendation/][Letters of Recommendation]]
