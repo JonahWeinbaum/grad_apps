@@ -142,7 +142,7 @@
 - Xiangyu Zhang [0/3]
   - [ ] Research
   - [ ] Email 
-  - [ ] Email student (Slack from Ming)
+  - [ ] Email Xiangzhe Xu (xzx@purdue.edu)
 - Antonio Bianchi [0/2]
   - [ ] Research
   - [ ] Email *CC Christophe* 
