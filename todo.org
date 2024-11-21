@@ -12,7 +12,52 @@
 - [-] Email Professors [1/25]
   - [ ] Write Generic Email
     #+BEGIN_SRC
+      Hello <NAME>,
 
+      My name is Jonah Weinbaum. I am a masters student in computer science at Dartmouth College focusing in
+      computer security and binary analysis. I am in the process of applying for a doctorate and am reaching out to you
+      to see if we could schedule a meeting to discuss your research and what you might be looking for in a graduate student.
+
+      Given that the best academic relationships are mutual, let me offer a bit of background on my end as to what topics I study and work on.
+      I have a strong background in binary reverse engineering and pure mathematics so I generally lean towards
+      intersections of these two fields. I am a fan of the standardization and canonicalization of computer
+      science curricula and theory -- perhaps with a tinge of bias from my math background. I am primarily seeking
+      an advisor who is interested in a cross-disciplinary and generalized approach to security research. I am a self-motivated
+      researcher with many projects I hope to get under way in my doctorate. As such, I am looking for an advisor who allows for a component of freedom
+      in research but can provide strong guidance.
+
+      I recently published a paper examining a particular class of projective algebraic varities using a new algorithm we developed for enumerating the orbits
+      of representations on vector spaces. I hope to find more use cases for this algorithm as there are a number of problems which could benefit from
+      such an algorithm -- particularly in the field of cryptography. The paper can be found at https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-04010-3/ along
+      with my undergraduate thesis which serves as a companion to this paper which is located at https://math.dartmouth.edu/theses/undergrad/2023/Weinbaum-thesis.pdf.
+
+      In my free time I work with a small group of reverse engineers (we call ourselves "Tilted Phoques") who reverse engineer popular video games and add
+      multiplayer support so that customers can share their game enjoyment with others. One project, which is mostly completed, focuses on Bethesda's game engine
+      for Skyrim and can be found here https://skyrim-together.com. Currently we work on modifications for the recently released Hogwarts Legacy and this work can
+      be found here https://hogwarp.com.
+
+      My current research is split between several projects. First, I am examining the mathematics of the UK Bombe which was used to break naval Enigma machines
+      during WWII. I am performing a more holistic anaylsis of the machine's efficacy using some results from permutation theory. Second, I am expanding support vector machines
+      to work over datasets whose geometry is encoded via a mesh (currently a 3-dimensional mesh, but the theory extends to higher dimensions). The ultimate goal is to develop a theory
+      of support vector machines on arbitrary Remannian manifolds. The hope is that such machines can perform classification where data is limited by taking into account
+      the underlying spacial geometry of the data set. Finally, I am working on filtering malicious deserializations in Java through the use of taint tracking to allow
+      for a more generalized guard against deserialization vulnerabilities. This is particularly relevant when custom classes and libraries are implemented, in which
+      gadget chains are not readily known to exist.
+
+      I am working on a variety of fairly diverse projects, though tied together under the general umbrella of mathematics and computer science, and
+      for this reason I am hoping to find an advisor who is open to exploration across fields of research.
+
+      <THEIR RESEARCH>
+      
+      <SPECIALIZED BY RECOMMENDER>
+
+      I would love if we could find a time to meet and further discuss your research and how I could play a part in furthering it. Further,
+      if any of my ongoing projects are of interest to you I would be happy to expand upon them.
+
+      Thank you so much for taking the time to listen to my spiel. I hope your semester is wrapping up nicely and that there is much to look forward to in the break.
+      
+      Best,
+      Jonah Weinbaum 
     #+END_SRC
   - [X] Write Sergey Blurb About Qualifications
     #+BEGIN_SRC
@@ -28,18 +73,18 @@
         - Hogwarp (see https://hogwarp.com/)
       - Fast algorithms for enumerating orbits of representations on vector spaces
         - A Census of Cubic Fourfolds over F_2 (see https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-04010-3/)
-      - Generalizing support vector machines to aribtrary Remannian manifolds (W.I.P.)
+      - Generalizing support vector machines to arbitrary Remannian manifolds (W.I.P.)
 
       I have a strong background in binary reverse engineering and pure mathematics so I generally lean towards
       intersections of these two fields. I am a fan of the standardization and canonicalization of computer
-      science curricula and theory -- perhaps with a tinge of bias from my math background. I am primarly seeking
+      science curricula and theory -- perhaps with a tinge of bias from my math background. I am primarily seeking
       an advisor who is interested in a cross-disciplinary and generalized approach to security research. I am a self-motivated
       researcher with many projects I hope to get under way in my doctorate. As such, I am looking for an advisor who allows for a component of freedom
       in research but can provide strong guidance.
 
       You asked in our meeting about my Stallman/Torvalds-esque take on how I can make the world a better place. I'll give my best attempt at
       answering after some thought on our conversation. I like to imagine what ideas would look like upon "rediscovery". If a theory
-      disappeared tomorrow, what would it look like in its recreation and reimplementation? Would we make the same choices and
+      disappeared tomorrow, what would it look like in its recreation and re-implementation? Would we make the same choices and
       formalizations, or were such things only created out of the context of their time? I find that on reanalyzing old or "completed" ideas, that is,
       ideas that were stored in a box somewhere as a tool us computer scientists use, there is often more to be uncovered.
 
@@ -47,7 +92,7 @@
       optimization meant that we could find ideal solutions for the problem at hand and thus there was no need to further question
       the tools we use to implement such machines. Apparently scikit-learn and various libraries are sufficient to abstract that idea so far
       that the mechanics are irrelevant. Now all that matters is tuning parameters and representing data. However, when I began examining the historical
-      progress of SVMs, I found that there were capabilitiDes of SVMs trained with gradient descent that weren't offered by this "optimal" solution.
+      progress of SVMs, I found that there were capabilities of SVMs trained with gradient descent that weren't offered by this "optimal" solution.
       Now I am attempting to contribute to a tool that is often considered unnecessary to iterate upon.
 
       In my view, this recipe of sifting through progress prior to its peak is the way to battle stagnation of ideas by imagining
@@ -77,7 +122,7 @@
   - [ ] Aravind Machiry
   - [ ] Suresh Jagannathan
     
-* Curricilum Vitae
+* Curriculum Vitae
 
 * References
 
@@ -165,7 +210,7 @@
   - [ ] Email *CC Christophe*
 - Engin Kirda [0/2]
   - [ ] Research
-    - [X] Talk to Ben he know's his students
+    - [X] Talk to Ben he knows his students
       #+BEGIN_SRC
 	Ben said not to work in this group. Engin is cool but his
 	students do weird garbage work. Apparently Engin has some falling
