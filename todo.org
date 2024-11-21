@@ -9,18 +9,56 @@
   - [X] Schedule Calendly
   - [X] Email Souroush regarding meeting
 - [ ] Reschedule Calendly w/ Souroush
-- [ ] Email Professors [0/25]
+- [-] Email Professors [1/25]
   - [ ] Write Generic Email
     #+BEGIN_SRC
-      
+
     #+END_SRC
-  - [ ] Write Sergey Blurb About Qualifications
+  - [X] Write Sergey Blurb About Qualifications
+    #+BEGIN_SRC
+      Hey Sergey! As discussed earlier I am sending a short blurb about my areas of interest and
+      skill that you may want to use as reference when reaching out to Martin and Binoy. Also I wanted to
+      thank you for all your help as I go through the rather daunting task of applying.
+      
+      On paper the things that I work on are as follows:
+      - Filtering malicious deserializations with taint tracking (W.I.P.)
+      - Permutation theory analysis of World War II cryptography (W.I.P.)
+      - Large scale video game reverse engineering and modification
+        - Skyrim Together (see https://skyrim-together.com/)
+        - Hogwarp (see https://hogwarp.com/)
+      - Fast algorithms for enumerating orbits of representations on vector spaces
+        - A Census of Cubic Fourfolds over F_2 (see https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-04010-3/)
+      - Generalizing support vector machines to aribtrary Remannian manifolds (W.I.P.)
+
+      I have a strong background in binary reverse engineering and pure mathematics so I generally lean towards
+      intersections of these two fields. I am a fan of the standardization and canonicalization of computer
+      science curricula and theory -- perhaps with a tinge of bias from my math background. I am primarly seeking
+      an advisor who is interested in a cross-disciplinary and generalized approach to security research. I am a self-motivated
+      researcher with many projects I hope to get under way in my doctorate. As such, I am looking for an advisor who allows for a component of freedom
+      in research but can provide strong guidance.
+
+      You asked in our meeting about my Stallman/Torvalds-esque take on how I can make the world a better place. I'll give my best attempt at
+      answering after some thought on our conversation. I like to imagine what ideas would look like upon "rediscovery". If a theory
+      disappeared tomorrow, what would it look like in its recreation and reimplementation? Would we make the same choices and
+      formalizations, or were such things only created out of the context of their time? I find that on reanalyzing old or "completed" ideas, that is,
+      ideas that were stored in a box somewhere as a tool us computer scientists use, there is often more to be uncovered.
+
+      A concrete example may be more illuminating. When I first learned about SVMs I was taught that we have achieved an "optimum". Lagrangian
+      optimization meant that we could find ideal solutions for the problem at hand and thus there was no need to further question
+      the tools we use to implement such machines. Apparently scikit-learn and various libraries are sufficient to abstract that idea so far
+      that the mechanics are irrelevant. Now all that matters is tuning parameters and representing data. However, when I began examining the historical
+      progress of SVMs, I found that there were capabilitiDes of SVMs trained with gradient descent that weren't offered by this "optimal" solution.
+      Now I am attempting to contribute to a tool that is often considered unnecessary to iterate upon.
+
+      In my view, this recipe of sifting through progress prior to its peak is the way to battle stagnation of ideas by imagining
+      what these ideas would look like were we not outright told the solution. 
+    #+END_SRC
   - [ ] *Martin Renards*
   - [ ] *Binoy Ravindran*
   - [ ] *Amal Ahmed*
   - [ ] *Will Robertson*
   - [ ] Stefan Savage
-  - [ ] Hovav Shacham
+  - [ ] Hovav Shachame
   - [ ] Xu Jun
   - [ ] Stefan Nagy
   - [ ] Tiffany Bao
@@ -46,24 +84,23 @@
 [0/1]
 - [ ] Seek Asher in Person 
 
-** Generic Message
-#+BEGIN_SRC
-    Hello [NAME],
-
-    The time has come. I am applying for PhD programs.
-    For this reason I am writing to you with two purposes in mind.
-    First, I was wondering if we could meet to discuss options for graduate programs that fit my
-    skills and interests.
-    Second, I would greatly appreciate it if you would consider being one of the references in my application.
-    If you would be willing I will touch base with more information as to how each school is
-    requesting its references and what would be ideal to highlight.
-
-    Best,
-    Jonah Weinbaum
-#+END_SRC
 
 [5/5]
 - [X] Write Generic Reference Email
+    #+BEGIN_SRC
+	Hello [NAME],
+
+	The time has come. I am applying for PhD programs.
+	For this reason I am writing to you with two purposes in mind.
+	First, I was wondering if we could meet to discuss options for graduate programs that fit my
+	skills and interests.
+	Second, I would greatly appreciate it if you would consider being one of the references in my application.
+	If you would be willing I will touch base with more information as to how each school is
+	requesting its references and what would be ideal to highlight.
+
+	Best,
+	Jonah Weinbaum
+    #+END_SRC
 - [X] Email Christophe
 - [X] Email Sergey
 - [X] Email Asher
